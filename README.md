@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### i there 👋 welcome to my GitHub Page!
 <!--
 **Richard-Burd/Richard-Burd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
