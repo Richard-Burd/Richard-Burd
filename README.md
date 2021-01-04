@@ -2,7 +2,7 @@
 
 My name is Richard Burd, you can read more about me on my bio [here](https://richard-burd.github.io/about/). <br>
 
-I am a graduate of the [Flatiron School](https://flatironschool.com/) in New York and have been using GitHub since 2016.  Here are the tools I'm most familiar with:
+I am a graduate of the [Flatiron School](https://flatironschool.com/) in New York and have been using GitHub since 2016.  Here are some things I use:
 
 | Languages  | Frameworks & Libraries  | Databases| Tools |
 | ------- | ---- | -- | --- |
